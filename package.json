@@ -1,5 +1,5 @@
 {
-  "name": "jsend",
+  "name": "typescript-jsend",
   "version": "0.1.0",
   "main": "dist/index.js",
   "repository": "https://github.com/HyunnoH/jsend",
