@@ -1,13 +1,14 @@
 {
   "name": "jsend",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "main": "dist/index.js",
   "repository": "https://github.com/HyunnoH/jsend",
   "author": "HyunnoH <43626722+HyunnoH@users.noreply.github.com>",
   "license": "MIT",
   "typings": "dist/",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc"
   },
   "devDependencies": {
     "@types/jest": "^26.0.14",
