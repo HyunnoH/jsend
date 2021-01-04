@@ -1,11 +1,15 @@
 {
   "name": "typescript-jsend",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "repository": "https://github.com/HyunnoH/jsend",
   "author": "HyunnoH <43626722+HyunnoH@users.noreply.github.com>",
   "license": "MIT",
-  "typings": "dist/",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
   "scripts": {
     "test": "jest",
     "build": "tsc"
